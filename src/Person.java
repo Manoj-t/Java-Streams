@@ -46,6 +46,3 @@ public class Person implements Serializable {
         this.place = place;
     }
 }
-
-
-//92570179
